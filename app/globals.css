@@ -24,4 +24,8 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+
+  .field-sizing {
+    field-sizing: content;
+  }
 }
